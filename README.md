@@ -69,10 +69,6 @@ Arabic (Native)
 English
 
 
-<h1 align="center">Hi 👋, I'm Mustafa Suleiman</h1>
-<h3 align="center">A passionate BI developer from Egypt</h3>
-
-- 🌱 I’m currently learning **python , power bi**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/](https://www.novypro.com/profile_projects/)
 
