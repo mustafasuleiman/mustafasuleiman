@@ -33,6 +33,7 @@ Attention to Detail
 Positive Attitude and Willingness to Learn
 
 👨‍💻 Experience:
+
 Data Analyst
 The Sparks Foundation · Internship
 Feb 2024 - Present · 
