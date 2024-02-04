@@ -4,6 +4,7 @@ About Me:
 🔭 I have around one years of experience in Data Modeling, Engineering, Visualization, Business Intelligence, and Data Analytics.
 💡 I thrive on designing, developing, and maintaining efficient data solutions, including Databases, Data Warehouses (DWH), and Extract Transform Load (ETL) processes.
 🚀 My expertise includes certified Azure data skills, and I'm confident in providing valuable insights to support data-driven decision-making for organizations.
+
 🛠️ Skills:
 
 Technical Skills:
@@ -40,14 +41,18 @@ Singapore - Remote
 
 Data Analyst
 Technocolabs Softwares · Internship
-Jan 2024 - Present ·
-Remote
+Jan 2024 - Present · Remote
+
+
 Business Intelligence Developer
 Information Technology Institute (ITI) · InternshipInformation Technology Institute (ITI) · Internship
-Nov 2023 - Present · 
+Nov 2023 - Present · Remote
+
 
 🎓 Education:
-Bachelor of Engineering  from Fayuom  University me
+Bachelor of Engineering from Fayuom University , Mechanics Department.
+
+
 🎓 Volunteering experience:
 FundraiserFundraiser
 IEEE Fayoum Student BranchIEEE Fayoum Student Branch
