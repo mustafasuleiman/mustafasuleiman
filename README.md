@@ -70,7 +70,7 @@ English
 
 
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/](https://www.novypro.com/profile_projects/)
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/][(https://www.novypro.com/profile_projects/)](https://www.novypro.com/profile_projects/1705329409732x709677689665664300)
 
 - 💬 Ask me about **python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, Azure SQL, Azure Blob Storage, Power Automate, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Salesforce, Google BigQuery, Snowflake, Databricks, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Microsoft (Excel, PowerPoint, and Access).**
 
